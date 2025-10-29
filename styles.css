@@ -93,18 +93,18 @@ iframe {
 #header p {
   color: red
 }
-#Skills ul li {
+#Skills li {
   color: rgb(180, 85, 7)
 }
-#WestMonroe ul li {
+#WestMonroe li {
   color: green
 }
-#WM ul li {
+#WM li {
   color: blue
 }
-#CivicStudios ul li {
+#CivicStudios li {
   color: indigo
 }
-#Education ul li {
+#Education li {
   color: rgb(173, 46, 173)
 }
