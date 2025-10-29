@@ -51,11 +51,14 @@ nav#hori ul li a:hover {
   border-radius: 40px;
 }
 
-.pictures h1, .pictures h2 {
-  color: orange;
+#headers h1{
+  color:rgb(159, 12, 9)
+}
+#headers h2{
+  color:rgb(205, 71, 4)
 }
 .pictures P {
-  color: orangered;
+  color: rgb(183, 52, 4);
   font-size: 18px;
   font-family: Helvetica, Arial, Georgia;
 }
@@ -77,10 +80,31 @@ img, video {
 #vid h2 {
   color: rgb(149, 2, 2);
 }
-#scriptHeaders {
-  color: black;
+#scriptHeaders h1{
+  color: rgb(39, 2, 2);
+}
+#scriptHeaders h2{
+  color: rgb(43, 12, 12);
 }
 iframe {
   width: 560;
   height: 315;
+}
+#header {
+  color: red
+}
+#content-wrapper {
+  color: rgb(180, 85, 7)
+}
+#WestMonroe {
+  color: green
+}
+#WM {
+  color: blue
+}
+#CivicStudios {
+  color: indigo
+}
+#Education {
+  color: rgb(173, 46, 173)
 }
