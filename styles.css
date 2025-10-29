@@ -90,21 +90,21 @@ iframe {
   width: 560;
   height: 315;
 }
-#header {
+#header p {
   color: red
 }
-#content-wrapper {
+#content-wrapper ul li {
   color: rgb(180, 85, 7)
 }
-#WestMonroe {
+#WestMonroe ul li {
   color: green
 }
-#WM {
+#WM ul li {
   color: blue
 }
-#CivicStudios {
+#CivicStudios ul li {
   color: indigo
 }
-#Education {
+#Education ul li {
   color: rgb(173, 46, 173)
 }
