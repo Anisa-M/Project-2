@@ -78,7 +78,7 @@ nav#hori ul li a:hover {
     gap: 15px; /* Space between image and text */
     margin-bottom: 20px; /* Adds space between each image-text pair */
 }
-img {
+img, video {
   width: 1000px; /* Sets a fixed width, height scales automatically */
   height: auto;
   margin-bottom: 50px;
