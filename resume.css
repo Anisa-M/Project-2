@@ -42,7 +42,7 @@ nav#hori ul li a {
     justify-content: center; /* Center text horizontally */
     align-items: center; /* Center text vertically */
     text-align: center;
-    background-color: darkblue;
+    background-color: black;
     color: #fff;
     font-weight: bold;
     text-decoration: none;
@@ -51,7 +51,7 @@ nav#hori ul li a {
     border-radius: 3px;
 }
 nav#hori ul li a:hover {
-    background-color: #FFC300;
+    background-color: #570202;
     color: darkblue;
     border-radius: 40px;
 }
