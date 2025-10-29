@@ -55,6 +55,9 @@ nav#hori ul li a:hover {
     color: white;
     border-radius: 40px;
 }
-#verses P{
+#verses ul li{
 color: #570202;
+}
+#vid h2 {
+    color: rgb(149, 2, 2);
 }
