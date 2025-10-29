@@ -51,7 +51,7 @@ nav#hori ul li a:hover {
   border-radius: 40px;
 }
 
-.pictures h1, .pictures h2, #climate h2, footer P {
+.pictures h1, .pictures h2 {
   color: orange;
 }
 .pictures P {
@@ -78,8 +78,16 @@ img, video {
   margin-bottom: 50px; 
 }
 #verses ul li{
-color: #570202;
+  color: #570202;
 }
 #vid h2 {
-    color: rgb(149, 2, 2);
+  color: rgb(149, 2, 2);
+}
+#scriptHeaders {
+  color: black;
+}
+iframe {
+  width: 560;
+  height: 315;
+  
 }
