@@ -52,7 +52,7 @@ nav#hori ul li a {
 }
 nav#hori ul li a:hover {
     background-color: #570202;
-    color: darkblue;
+    color: white;
     border-radius: 40px;
 }
 
